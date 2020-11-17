@@ -1,0 +1,15 @@
+
+body{
+    text-align: center;
+    background-color: #333333;
+    color: #f0f0f0;
+    font: cursive
+}
+
+button{
+    border: none;
+    background-color: #222222;
+    color: #ffffff;
+    font-size: 135%;
+}
+
