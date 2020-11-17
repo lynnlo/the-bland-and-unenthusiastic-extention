@@ -5,7 +5,7 @@ Created by Lynn O.
 
 ## Information
 
-<br><br>
+<br>
 
 'the bland and unenthusiastic extention' is an extention that removes all excitment from any text.  
 It replaces exclamation marks with full stops and makes all letter lowercased.
