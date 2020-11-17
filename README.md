@@ -5,9 +5,6 @@ Created by Lynn O.
 
 ## Information
 
-<br>
-<image src="./src/images/Preview.png" width="15%">
-
 <br><br>
 
 'the bland and unenthusiastic extention' is an extention that removes all excitment from any text.  
