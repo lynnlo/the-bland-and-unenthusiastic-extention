@@ -3,6 +3,28 @@ Created by Lynn O.
 
 <br>
 
+## Information
+
+<br>
+<image src="./src/images/Preview.png" width="15%">
+
+<br><br>
+
+'the bland and unenthusiastic extention' is an extention that removes all excitment from any text.  
+It replaces exclamation marks with full stops and makes all letter lowercased.
+
+<br>
+
+Before
+<br>
+<image src="./src/images/Before.png" width="35%">
+
+After
+<br>
+<image src="./src/images/After.png" width="35%">
+
+<br>
+
 ## Set up insturctions
 
 1. Go to chrome://extensions/ and enable developer mode.
